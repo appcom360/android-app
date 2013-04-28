@@ -120,3 +120,4 @@ android-app项目设置2-3名管理者，目前的管理者是
 - Iceskysl
 
 每个人都可以fork一份代码，在自己的分支上修改，完成相关的功能后可以给 `eoecn/android-app` 发起一个pull request,管理者收到pull request后会评估合并提交的功能和代码
+以下链接是如何贡献代码的教程
